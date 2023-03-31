@@ -1,6 +1,6 @@
 Name:		texlive-asternote
 Version:	63838
-Release:	1
+Release:	2
 Summary:	Annotation symbols enclosed in square brackets and marked with an asterisk
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/asternote
