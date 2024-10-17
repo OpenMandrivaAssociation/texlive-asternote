@@ -3,7 +3,7 @@ Version:	63838
 Release:	2
 Summary:	Annotation symbols enclosed in square brackets and marked with an asterisk
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/asternote
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/asternote
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/asternote.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/asternote.doc.r%{version}.tar.xz
